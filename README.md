@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Clove.
+- 👀 I’m interested in developement of bot Discord.
+- 🌱 I’m currently learning JS,Postgresql.
+- 😄 Pronouns: They/Them
+- ⚡ Fun fact: I'm a alter.
